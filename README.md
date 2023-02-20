@@ -21,3 +21,18 @@ This is the repository for ArchiMate models related to the prototype development
 <b>Infrastructure Functional and Deployment Viewpoint of IDS-related Components</b>
 
 ![4  Infrastructure and Functional Viewpoint](https://user-images.githubusercontent.com/30825334/220198024-46165492-cc18-42bd-b74d-361b61a99e79.png)
+
+# Contributing
+
+Huge credits are given to the contributors listed below who have provided their contributions to make this research project materialized: 
+<br /> <br />
+[Danniar Reza Firdausy](https://people.utwente.nl/d.r.firdausy) <sup>a</sup> <br />
+[Patrício de Alencar Silva](https://people.utwente.nl/p.dealencarsilva) <sup>b,c</sup> <br />
+[Marten van Sinderen](https://people.utwente.nl/m.j.vansinderen) <sup>b</sup> <br />
+[Maria-Eugenia Iacob](https://people.utwente.nl/m.e.iacob) <sup>a</sup> <br /> 
+[Wout van den Heuvel](https://www.linkedin.com/in/wout-van-den-heuvel-6264161/) <sup>d</sup> <br /> 
+
+<sup>a</sup> [Department of Industrial Engineering and Business Information Systems (IEBIS), University of Twente (UT)](https://www.utwente.nl/en/bms/iebis/) <br />
+<sup>b</sup> [Department of Services and CyberSecurity (SCS), University of Twente (UT)](https://www.utwente.nl/en/eemcs/scs/) <br /> 
+<sup>c</sup> [Graduate Program in Computer Science UERN/UFERSA Rio Grande do Norte State University (UERN) Federal University of the Semi-Arid Region (UFERSA)](https://englishversion.ufersa.edu.br/computer-science-2/) <br />
+<sup>d</sup> [Stichting Uniforme Transport Code (SUTC)](https://www.sutc.nl/en_US) <br />
