@@ -39,7 +39,7 @@ Huge credits are given to the contributors listed below who have provided their 
 <sup>d</sup> [Stichting Uniforme Transport Code (SUTC)](https://www.sutc.nl/en_US) <br />
 <sup>e</sup> [eMagiz iPaaS](https://emagiz.com/en/) <br />
 
-# Citate Published Article:
+# Cite This Article:
 
 D. R. Firdausy, P. De Alencar Silva, M. Van Sinderen and M. -E. Iacob, "Towards a Reference Enterprise Architecture to enforce Digital Sovereignty in International Data Spaces," 2022 IEEE 24th Conference on Business Informatics (CBI), Amsterdam, Netherlands, 2022, pp. 117-125, doi: 10.1109/CBI54897.2022.00020.
 
