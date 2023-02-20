@@ -4,4 +4,14 @@ This is the repository for ArchiMate models related to the prototype development
 
 # ArchiMate Models Information
 
-<b>Data Connector Store Prototype - Infrastructure Viewpoint of the Data Connector Store</b>
+<b>Motivation Viewpoint of IDS Adoption and Connector Store Implementation</b>
+
+
+<b>Service Realization Viewpoint of IDS Certification</b>
+
+
+
+<b>Data and Metadata Exchange Viewpoint established by a Connector Store</b>
+
+
+<b>Infrastructure Functional and Deployment Viewpoint of IDS-related Components</b>
