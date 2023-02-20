@@ -2,7 +2,7 @@
 
 This is the repository for ArchiMate models related to the prototype development of the Connector Store as part of the Dutch Connecting Logistics Interfaces, Converters, Knowledge and Standards (CLiCKS) project. This project operates on top of a consortium that consists of collaborators from University of Twente (UT), Netherlands Organisation for Applied Scientific Research (TNO), Stichting Uniforme Transport Code (SUTC), and eMagiz.
 
-# ArchiMate Models
+# ArchiMate Viewpoints
 
 <b>Motivation Viewpoint of IDS Adoption and Connector Store Implementation</b>
 
