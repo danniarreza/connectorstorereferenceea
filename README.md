@@ -2,12 +2,6 @@
 
 This is the repository for ArchiMate models related to the prototype development of the Connector Store as part of the Dutch Connecting Logistics Interfaces, Converters, Knowledge and Standards (CLiCKS) project. This project operates on top of a consortium that consists of collaborators from University of Twente (UT), Netherlands Organisation for Applied Scientific Research (TNO), Stichting Uniforme Transport Code (SUTC), and eMagiz.
 
-Citate Published Article:
-
-D. R. Firdausy, P. De Alencar Silva, M. Van Sinderen and M. -E. Iacob, "Towards a Reference Enterprise Architecture to enforce Digital Sovereignty in International Data Spaces," 2022 IEEE 24th Conference on Business Informatics (CBI), Amsterdam, Netherlands, 2022, pp. 117-125, doi: 10.1109/CBI54897.2022.00020.
-
-https://ieeexplore.ieee.org/abstract/document/9944741
-
 # ArchiMate Models Information
 
 <b>Motivation Viewpoint of IDS Adoption and Connector Store Implementation</b>
@@ -44,3 +38,9 @@ Huge credits are given to the contributors listed below who have provided their 
 <sup>c</sup> [Graduate Program in Computer Science UERN/UFERSA Rio Grande do Norte State University (UERN) Federal University of the Semi-Arid Region (UFERSA)](https://englishversion.ufersa.edu.br/computer-science-2/) <br />
 <sup>d</sup> [Stichting Uniforme Transport Code (SUTC)](https://www.sutc.nl/en_US) <br />
 <sup>e</sup> [eMagiz iPaaS](https://emagiz.com/en/) <br />
+
+# Citate Published Article:
+
+D. R. Firdausy, P. De Alencar Silva, M. Van Sinderen and M. -E. Iacob, "Towards a Reference Enterprise Architecture to enforce Digital Sovereignty in International Data Spaces," 2022 IEEE 24th Conference on Business Informatics (CBI), Amsterdam, Netherlands, 2022, pp. 117-125, doi: 10.1109/CBI54897.2022.00020.
+
+https://ieeexplore.ieee.org/abstract/document/9944741
