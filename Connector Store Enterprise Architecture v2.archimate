@@ -360,7 +360,7 @@
     <element xsi:type="archimate:InfluenceRelationship" id="3e549961-93d8-44e0-9ffe-3ed4cae36be4" source="8f610d5c-2acb-45b8-855a-75d6b041edc0" target="id-0f2a41fc1ba94053b3db9ffdd1eccbd3" strength="+"/>
   </folder>
   <folder name="Views" id="id-4afe25f1987d4f67be8a292533034bb0" type="diagrams">
-    <element xsi:type="archimate:ArchimateDiagramModel" name="Overall Project View" id="id-cebf4ae1b40c42199012d839a1f59c61">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="5. Overall Project View" id="id-cebf4ae1b40c42199012d839a1f59c61">
       <child xsi:type="archimate:DiagramObject" id="id-06064547527d4e52be69fcc085834024" targetConnections="id-32ef47044ab94025b7dc7d38f53b5201 id-4522ee2bce5b4f1c9e4f65b52a64fd6e" fillColor="#ff972f" textPosition="1" archimateElement="id-cf614ad9dafd4b52a74b5fb88e4cb3e3">
         <bounds x="648" y="-48" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-7cb1cc9075114923810b4930a61777ec" source="id-06064547527d4e52be69fcc085834024" target="id-df388f35f3234736a8b678562b514b43" archimateRelationship="id-5afdfcbe4b864a43afba53ef28e29bb4"/>
@@ -756,7 +756,7 @@
         <sourceConnection xsi:type="archimate:Connection" id="id-bf56c9cd065f4dcdb4f94240a88969df" source="id-f28590a297804750bdac219156c6dbeb" target="id-1e9fcef845724aba852780aa90051c77" archimateRelationship="id-1cc42ecd292544b69b686794f71f682e"/>
       </child>
     </element>
-    <element xsi:type="archimate:ArchimateDiagramModel" name="Service Realization Viewpoint of IDS Certification " id="id-1aeaa19e3f2d4f50828baf3a30f6e1cc">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="2. Service Realization Viewpoint of IDS Certification " id="id-1aeaa19e3f2d4f50828baf3a30f6e1cc">
       <child xsi:type="archimate:DiagramObject" id="id-d300ea17d55c4b059e6e4750ffd3c9db" targetConnections="id-e684e9251f1943f39664e4245e77e492 id-4830c1a00bd6485ea67144239a498222" fillColor="#ff972f" textPosition="1" archimateElement="id-cf614ad9dafd4b52a74b5fb88e4cb3e3">
         <bounds x="360" y="192" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-0ce424dedcd245058a63787909b0aca2" source="id-d300ea17d55c4b059e6e4750ffd3c9db" target="id-c81f1ad1f83241b9ab7ce616b29ffc5b" archimateRelationship="id-35d3de0f1c2044ab98555aa7c60e2fac">
@@ -885,7 +885,7 @@
         <bounds x="876" y="345" width="120" height="55"/>
       </child>
     </element>
-    <element xsi:type="archimate:ArchimateDiagramModel" name="Data &amp; Metadata Exchange Viewpoint" id="id-04424da525cd458fb3de7004cc99d7c1">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="3. Data and Metadata Exchange Viewpoint" id="id-04424da525cd458fb3de7004cc99d7c1">
       <child xsi:type="archimate:DiagramObject" id="id-aa6b5e985d1649f9b6d43158c59ba3c9" targetConnections="id-9198887c2cf7445196215188cee3beca id-c1556aa7744f4df3b1b74448b3435d1e" fillColor="#ff972f" textPosition="1" archimateElement="id-cf614ad9dafd4b52a74b5fb88e4cb3e3">
         <bounds x="407" y="-12" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-9cff7e2bec0d4e2faba9203017401f7b" source="id-aa6b5e985d1649f9b6d43158c59ba3c9" target="id-8a7a311f3e644086afa5da72b32929bd" archimateRelationship="id-5afdfcbe4b864a43afba53ef28e29bb4"/>
@@ -1205,7 +1205,7 @@
         <sourceConnection xsi:type="archimate:Connection" id="id-7ac041393ad14027b900f1c25cdba31e" source="id-ba5c772e2f4c4c3da5da18b70d0217f3" target="id-055ffcfb755743b5b8619c822777093f" archimateRelationship="id-5df989c745494354aa0122c388d71bf4"/>
       </child>
     </element>
-    <element xsi:type="archimate:ArchimateDiagramModel" name="Motivation Viewpoint of IDS Adoption " id="3cd09d1f-0609-4122-88c1-89ce7c9b39b6">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="1. Motivation Viewpoint of IDS Adoption" id="3cd09d1f-0609-4122-88c1-89ce7c9b39b6">
       <child xsi:type="archimate:DiagramObject" id="7bdbb0d4-1c5b-46d1-9a18-008e4327c0c7" targetConnections="2640acb1-a648-410b-9d73-962fc4d179fd" textPosition="1" archimateElement="id-1570420072ae4f19a0c5223e06bad08c">
         <bounds x="96" y="528" width="253" height="77"/>
         <sourceConnection xsi:type="archimate:Connection" id="0ff456b6-e689-4015-9d62-8b1e745b707f" source="7bdbb0d4-1c5b-46d1-9a18-008e4327c0c7" target="d2279d03-035b-4303-9e0e-fc6835070757" archimateRelationship="ed5e4bb6-8496-46c1-80da-0b4c118de7b1"/>
@@ -1335,7 +1335,7 @@
         <sourceConnection xsi:type="archimate:Connection" id="b91e5c87-7635-46e1-aeb3-7a2066c12471" source="0d83a0ab-2203-420a-8448-5c65425d28de" target="b34fbfc1-0a55-4f82-a498-d13dbcbc838a" archimateRelationship="d068fa2d-b39d-44fc-88c2-425971b585f5"/>
       </child>
     </element>
-    <element xsi:type="archimate:ArchimateDiagramModel" name="Infrastructure Functional Viewpoint" id="df49d01b-2208-40e5-837c-a6bb57928fec">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="4. Infrastructure Functional and Deployment Viewpoint" id="df49d01b-2208-40e5-837c-a6bb57928fec">
       <child xsi:type="archimate:DiagramObject" id="63833aaf-8a2e-4875-841d-a45f7e4ee0ab" fillColor="#ff972f" textPosition="1" archimateElement="id-c569d59f7ffa4c04af6173a5923c87a8">
         <bounds x="156" y="426" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="81ee59b5-c9bb-4e79-abb6-036e06719069" source="63833aaf-8a2e-4875-841d-a45f7e4ee0ab" target="52f0cd96-ead0-4cf8-8abd-15f9390da83e" archimateRelationship="id-3a6c0782064745158126bfe52a1b7b20"/>
