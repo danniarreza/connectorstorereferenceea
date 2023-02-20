@@ -43,4 +43,5 @@ Huge credits are given to the contributors listed below who have provided their 
 
 D. R. Firdausy, P. De Alencar Silva, M. Van Sinderen and M. -E. Iacob, "Towards a Reference Enterprise Architecture to enforce Digital Sovereignty in International Data Spaces," 2022 IEEE 24th Conference on Business Informatics (CBI), Amsterdam, Netherlands, 2022, pp. 117-125, doi: 10.1109/CBI54897.2022.00020.
 
+<b>Conference Proceedings</b>
 https://ieeexplore.ieee.org/abstract/document/9944741
